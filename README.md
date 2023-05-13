@@ -4,9 +4,11 @@ Project for my machine learning class at ITM.
 
 ## Requirements
 
-- Python 3.9
+This project uses Python 3.9 
+
 - numpy
 - opencv-python
 - scikit-learn
 - torch
 - torchvision
+- matplotlib
