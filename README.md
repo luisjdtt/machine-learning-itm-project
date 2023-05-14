@@ -5,6 +5,7 @@ Project for my machine learning class at ITM.
 ## Requirements
 
 This project uses Python 3.9 
+Main dependencies:
 
 - numpy
 - opencv-python
@@ -12,3 +13,7 @@ This project uses Python 3.9
 - torch
 - torchvision
 - matplotlib
+
+For data preprocessing:
+- imagededup
+
