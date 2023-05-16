@@ -44,3 +44,12 @@ Execute the following comand on the terminal:
 
 Please adjust the `checkpoints_path` and `image_path` arguments as needed, specifying the paths to the trained model and the image you want to perform inference on. Also, ensure that the device argument is set correctly for your system (cpu or gpu).
 
+## Results
+
+The model achieves 76.8% accuracy on validation set. The confusion matrix was calculated using the validation set (10% of dataset).
+
+![Accuracy Graph](/outputs/accuracy76.png)
+
+![Loss Graph](/outputs/loss76.png)
+
+![Confusion Matrix](/outputs/confusionmatrix.png)
