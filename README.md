@@ -2,6 +2,8 @@
 
 Project for machine learning class at ITM.
 
+![Logo](outputs/logo.jpg)
+
 ## Requirements
 
 This project requires Python 3.9.
